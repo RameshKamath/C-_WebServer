@@ -1,0 +1,1 @@
+docker run -ti -p 8080:8080 -e PORT=8080 -v E:/dev/Tests/C++_WebServer/server:/usr/program cppbox:latest

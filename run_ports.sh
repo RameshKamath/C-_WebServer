@@ -1,0 +1,1 @@
+docker run -ti -p 8080:8080 -e PORT=8080  cppbox:latest

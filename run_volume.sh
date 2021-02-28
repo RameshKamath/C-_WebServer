@@ -1,0 +1,1 @@
+docker run -ti -v E:/dev/Tests/C++_WebServer/server:/usr/program cppbox:latest
